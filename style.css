@@ -1,0 +1,19 @@
+.header {
+    font-family: roboto;
+    background: papayawhip;
+    display: flex;
+    flex: 1;
+    justify-content: space-evenly;
+}
+
+.content {
+    font-family: roboto;
+}
+
+.footer {
+    font-family: roboto;
+    background-color: #1f2937;
+}
+
+.logo {
+}
